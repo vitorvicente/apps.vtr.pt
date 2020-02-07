@@ -1,5 +1,5 @@
-# social.vtr.pt
-## Social Media Portal Page
+# apps.vtr.pt
+## Public Listing of my Apps
 
 ##### This is the fifth part of a 100 day coding challenge focused on web-development
 
