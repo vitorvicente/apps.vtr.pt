@@ -67,7 +67,7 @@ header.masthead .page-heading .subheading,header.masthead .site-heading .subhead
  }
 }
 
-.social-boxes .card {
+.boxes .card {
   position: relative;
   overflow: hidden;
   border-radius: 5px;
@@ -76,22 +76,42 @@ header.masthead .page-heading .subheading,header.masthead .site-heading .subhead
   transition: all 0.3s ease-in-out;
 }
 
-.social-boxes .card:hover {
+.boxes .card:hover {
   -webkit-transform: translateY(-5px);
   transform: translateY(-5px);
 }
 
-.social-boxes i {
-  color: #007bff;
-  padding-top: 20px;
-  font-size: 75px;
-}
-
-.social-boxes .card-title a {
+.boxes .card-title a {
   color: #111;
 }
 
-.social-boxes .card:hover .card-title a {
+.boxes .card:hover .card-title a {
   color: #007bff;
   text-decoration: none;
+}
+
+.boxes .card-img-top {
+  height: 250px;
+}
+
+.btn {
+	font-size:14px;
+	font-weight:800;
+	padding:15px 25px;
+	letter-spacing:1px;
+	text-transform:uppercase;
+	border-radius:10px;
+	font-family:'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif
+}
+
+.boxes p {
+  padding: 0;
+  margin: 0 0 30px 0;
+}
+
+.boxes h3 {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+  margin: 0 0 20px 0;
+  padding: 0;
 }
