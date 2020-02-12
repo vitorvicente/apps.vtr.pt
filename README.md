@@ -10,8 +10,14 @@
 - Initial File Upload
 - License & README
 
-###### Day 82
+###### Day 82 
 - Content HTML & CSS
 
 ###### Day 83
 - Additional Content
+
+###### Day 84-85
+- Working on Other Projects
+
+###### Day 86
+- Bug Fixes
